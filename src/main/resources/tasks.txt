@@ -1,0 +1,25 @@
+[GAME]
+Игра, которую придумал DimkasM
+[TASK]
+[TITLE]
+Задание 1
+[DESCRIPTION]
+Какой мопэд у Димкаса?
+[ANSWER]
+Honda Dio
+
+[TASK]
+[TITLE]
+Задание 2
+[DESCRIPTION]
+Как зовут кошку Димкаса?
+[ANSWER]
+Honda
+
+[TASK]
+[TITLE]
+Задание 3
+[DESCRIPTION]
+Начни фразу "... Gold Wing"
+[ANSWER]
+Honda

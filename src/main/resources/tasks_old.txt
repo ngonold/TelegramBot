@@ -1,0 +1,23 @@
+[TASK]
+[TITLE]
+Test task one
+[DESCRIPTION]
+Go somewhere and find something
+[ANSWER]
+cat
+
+[TASK]
+[TITLE]
+Test task two
+[DESCRIPTION]
+Go somewhere else and find nothing
+[ANSWER]
+nothing
+
+[TASK]
+[TITLE]
+Test task three
+[DESCRIPTION]
+Do nothing
+[ANSWER]
+omg
